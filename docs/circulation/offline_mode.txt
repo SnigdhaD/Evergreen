@@ -149,7 +149,7 @@ Uploading transactions to the session does *not* put the transactions into the
 Evergreen database. The transactions will not be sent to the Evergreen database
 until the manager processes the session.
 
-Creating an Offline Session
+Creating an *Offline Session*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 In the Evergreen staff client:
 
@@ -196,7 +196,7 @@ the following steps in the Evergreen staff client:
 Processing the Transactions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 When all of the participating staff workstations have uploaded their
-transactions to the offline session, the workstation names are listed
+transactions to the *offline session*, the workstation names are listed
 in the *Uploaded Transactions* section. To process the offline transactions
 and make them live on the Evergreen server:
 
